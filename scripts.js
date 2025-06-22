@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
     const mailButton = document.querySelector('.chat-btn');
     mailButton.addEventListener('click', function() {
-        window.location.href = "mailto:nick.teichmann@icloud.com";
+        window.location.href = "mailto:info@nickteichmann.de";
     });
 });
 
